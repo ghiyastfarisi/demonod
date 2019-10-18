@@ -1,0 +1,16 @@
+{
+  "name": "demonod",
+  "port": "8901",
+  "version": "1.0.0",
+  "description": "my demo nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "moeghifar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
